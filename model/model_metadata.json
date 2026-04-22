@@ -45,5 +45,5 @@
     "hyphen_count": 0.011983507503292773
   },
   "model_type": "RandomForestClassifier",
-  "dataset_path": "C:\\Users\\Furio\\Desktop\\Projects\\phishguard-ai-v3\\model\\final_dataset.csv"
+  "dataset_path": "C:\\Users\\Furio\\Desktop\\Projects\\phishguard-ai\\model\\final_dataset.csv"
 }
